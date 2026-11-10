@@ -1,5 +1,5 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="658" height="260" viewBox="0 0 658 260">
-  <title>作りたいものを、気の向くままに作っています。今はモバイルアプリと AI エージェントがメイン。仕事では TransAI で、AI を前提にした顧客のあるべき姿を形にしています。</title>
+<svg xmlns="http://www.w3.org/2000/svg" width="658" height="136" viewBox="0 0 658 136">
+  <title>作りたいものを、気の向くままに作っています。</title>
   <defs>
     <linearGradient id="accent" gradientUnits="userSpaceOnUse" x1="0" y1="0" x2="329" y2="0">
       <stop offset="0" stop-color="#0d9488"/>
@@ -7,15 +7,8 @@
       <stop offset="1" stop-color="#7c3aed"/>
     </linearGradient>
   </defs>
-  <g font-family="'Hiragino Sans','Hiragino Kaku Gothic ProN','Yu Gothic','YuGothic','Noto Sans JP','Noto Sans CJK JP',Meiryo,sans-serif">
-    <g font-size="46" letter-spacing="1">
-      <text x="0" y="50" font-weight="300" fill="#59636e">作りたいものを、</text>
-      <text x="0" y="114" font-weight="800" fill="#1f2328"><tspan fill="url(#accent)">気の向くままに</tspan>作っています。</text>
-    </g>
-    <g font-size="21" letter-spacing="0.5" fill="#59636e">
-      <text x="2" y="170">今は<tspan font-weight="600" fill="#1f2328">モバイルアプリ</tspan>と <tspan font-weight="600" fill="#1f2328">AI エージェント</tspan>がメイン。</text>
-      <text x="2" y="206">仕事では <tspan font-weight="600" fill="#1f2328">TransAI</tspan> で、AI を前提にした</text>
-      <text x="2" y="240">顧客のあるべき姿を形にしています。</text>
-    </g>
+  <g font-family="'Hiragino Sans','Hiragino Kaku Gothic ProN','Yu Gothic','YuGothic','Noto Sans JP','Noto Sans CJK JP',Meiryo,sans-serif" font-size="46" font-weight="800" letter-spacing="1" fill="#1f2328">
+    <text x="0" y="50">作りたいものを、</text>
+    <text x="0" y="114"><tspan fill="url(#accent)">気の向くままに</tspan>作っています。</text>
   </g>
 </svg>
