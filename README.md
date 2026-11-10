@@ -1,6 +1,6 @@
 <picture>
 <source media="(prefers-color-scheme: dark)" srcset="assets/headline-dark.svg">
-<img src="assets/headline-light.svg" alt="作りたいものを、気の向くままに作っています。今はモバイルアプリと AI エージェントがメイン。仕事では TransAI で、AI を前提にした顧客のあるべき姿を形にしています。">
+<img src="assets/headline-light.svg" alt="作りたいものを、気の向くままに作っています。">
 </picture>
 
 <h4>
