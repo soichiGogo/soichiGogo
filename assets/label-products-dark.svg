@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="129" height="32" viewBox="0 0 129 32">
+  <title>プロダクト</title>
+  <defs>
+    <linearGradient id="accent" gradientUnits="userSpaceOnUse" x1="0" y1="0" x2="125" y2="0">
+      <stop offset="0" stop-color="#2dd4bf"/>
+      <stop offset="0.55" stop-color="#60a5fa"/>
+      <stop offset="1" stop-color="#a78bfa"/>
+    </linearGradient>
+  </defs>
+  <text x="0" y="25" font-family="'Hiragino Sans','Hiragino Kaku Gothic ProN','Yu Gothic','YuGothic','Noto Sans JP','Noto Sans CJK JP',Meiryo,sans-serif" font-size="24" font-weight="800" letter-spacing="1" fill="url(#accent)">プロダクト</text>
+</svg>
