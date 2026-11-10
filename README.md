@@ -1,12 +1,14 @@
 <picture>
 <source media="(prefers-color-scheme: dark)" srcset="assets/headline-dark.svg">
-<img src="assets/headline-light.svg" alt="作りたいものを、気の向くままに作っています。">
+<img src="assets/headline-light.svg" alt="作りたいものを、気の向くままに作っています。今はモバイルアプリと AI エージェントがメイン。仕事では TransAI で、AI を前提にした顧客のあるべき姿を形にしています。">
 </picture>
 
-今はモバイルアプリと AI エージェントがメイン。<br>
-仕事では TransAI で、AI を前提にした顧客のあるべき姿を形にしています。
-
-#### プロダクト
+<h4>
+<picture>
+<source media="(prefers-color-scheme: dark)" srcset="assets/label-products-dark.svg">
+<img src="assets/label-products-light.svg" alt="プロダクト">
+</picture>
+</h4>
 
 <div>
 <a href="https://apps.apple.com/jp/app/id6824240625"><img src="assets/ukiyo-shogi.png" width="96" height="96" align="left" alt="浮世将棋のアイコン"></a>
@@ -44,6 +46,11 @@
 <br clear="left">
 </div>
 
-#### 実績
+<h4>
+<picture>
+<source media="(prefers-color-scheme: dark)" srcset="assets/label-achievements-dark.svg">
+<img src="assets/label-achievements-light.svg" alt="実績">
+</picture>
+</h4>
 
 🏆 [DevOps × AI Agent Hackathon 2026](https://cloud.google.com/blog/ja/products/ai-machine-learning/devops-ai-agent-hackathon-2026?hl=ja) 優秀賞（HOIKUAGENT）
