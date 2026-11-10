@@ -1,7 +1,10 @@
-### 作りたいものを、気の向くままに作っています。
+<picture>
+<source media="(prefers-color-scheme: dark)" srcset="assets/headline-dark.svg">
+<img src="assets/headline-light.svg" alt="作りたいものを、気の向くままに作っています。">
+</picture>
 
-今はモバイルアプリと AI エージェントがメインです。<br>
-仕事では TransAI で、お客さんの要望と、AI を前提にしたあるべき姿を形にしています。
+今はモバイルアプリと AI エージェントがメイン。<br>
+仕事では TransAI で、AI を前提にした顧客のあるべき姿を形にしています。
 
 #### プロダクト
 
@@ -34,7 +37,7 @@
 
 <div>
 <a href="https://github.com/soichiGogo/hoiku-agent"><img src="assets/hoikuagent.svg" width="96" height="96" align="left" alt="HOIKUAGENT のロゴ"></a>
-<a href="https://github.com/soichiGogo/hoiku-agent"><b>HOIKUAGENT</b></a>&nbsp;&nbsp;<sub>GitHub</sub><br>
+<a href="https://github.com/soichiGogo/hoiku-agent"><b>HOIKUAGENT</b></a>&nbsp;&nbsp;<sub>Web</sub><br>
 保育士の勘所を吸収して、保育書類づくりを支援する AI エージェント<br>
 <sub><b>テーマ</b>　ハッカソンのテーマから着想 · 現場の勘所を AI エージェントのスキルに取り込む</sub><br>
 <sub><code>Python</code> <code>Google ADK</code> <code>Gemini</code> <code>Cloud Run</code></sub>
@@ -44,7 +47,3 @@
 #### 実績
 
 🏆 [DevOps × AI Agent Hackathon 2026](https://cloud.google.com/blog/ja/products/ai-machine-learning/devops-ai-agent-hackathon-2026?hl=ja) 優秀賞（HOIKUAGENT）
-
-#### 過去作
-
-[myx-cli](https://github.com/soichiGogo/myx-cli) — tmux の隅に Claude の使用量を常に表示するウィジェット
