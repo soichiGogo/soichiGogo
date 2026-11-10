@@ -43,7 +43,7 @@
 保育士の勘所を吸収して、保育書類づくりを支援する AI エージェント<br>
 <sub><b>テーマ</b>　ハッカソンのテーマから着想 · 現場の勘所を AI エージェントのスキルに取り込む</sub><br>
 <sub><code>Python</code> <code>Google ADK</code> <code>Gemini</code> <code>Cloud Run</code></sub>
-<br clear="left">
+<br clear="left"><br>
 </div>
 
 <h4>
