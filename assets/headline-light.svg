@@ -1,5 +1,5 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="658" height="136" viewBox="0 0 658 136">
-  <title>作りたいものを、気の向くままに作っています。</title>
+  <title>作りたいと思ったものを、気の向くままに作っています。</title>
   <defs>
     <linearGradient id="accent" gradientUnits="userSpaceOnUse" x1="0" y1="0" x2="329" y2="0">
       <stop offset="0" stop-color="#0d9488"/>
@@ -8,7 +8,7 @@
     </linearGradient>
   </defs>
   <g font-family="'Hiragino Sans','Hiragino Kaku Gothic ProN','Yu Gothic','YuGothic','Noto Sans JP','Noto Sans CJK JP',Meiryo,sans-serif" font-size="46" font-weight="800" letter-spacing="1" fill="#1f2328">
-    <text x="0" y="50">作りたいものを、</text>
+    <text x="0" y="50">作りたいと思ったものを、</text>
     <text x="0" y="114"><tspan fill="url(#accent)">気の向くままに</tspan>作っています。</text>
   </g>
 </svg>
