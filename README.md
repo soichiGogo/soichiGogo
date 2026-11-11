@@ -1,6 +1,6 @@
 <picture>
 <source media="(prefers-color-scheme: dark)" srcset="assets/headline-dark.svg">
-<img src="assets/headline-light.svg" alt="作りたいものを、気の向くままに作っています。">
+<img src="assets/headline-light.svg" alt="作りたいと思ったものを、気の向くままに作っています。">
 </picture>
 
 <h4>
